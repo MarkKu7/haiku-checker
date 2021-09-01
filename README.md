@@ -1,6 +1,6 @@
-# (Application Name)
+# Haiku Checker App
 
-#### (Brief Description of Application)
+#### This app is checking if entered text is a haiku
 
 #### By (Your Name Here)
 
